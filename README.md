@@ -45,7 +45,3 @@ During the day you capture moments **live**: photos, short videos and full-scree
 6. ⬜ Server-side video export of one or more days
 7. ⬜ Tags in Memories
 8. ⬜ TestFlight with friends
-
-## My role
-
-Product definition (concept, rules and trade-offs above), UX, iOS app (SwiftUI), backend and infrastructure (Postgres, Redis, S3-compatible storage, Docker).
